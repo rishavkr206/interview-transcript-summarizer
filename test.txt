@@ -1,0 +1,31 @@
+﻿[00:00] Interviewer: Hello! Welcome to our interview. Can you tell us about yourself and your background?
+
+[00:15] Candidate: Hi! My name is Priya and I have 6 years of experience in full-stack software development. I started my career as a junior developer at a startup and have progressed to a senior developer role. My primary expertise is in React, Node.js, Python, and cloud technologies.
+
+[01:30] Interviewer: That's great! Tell us about your most significant project.
+
+[02:00] Candidate: I led the complete redesign of our main product's architecture. We migrated from a monolithic application to a microservices architecture using Docker and Kubernetes. This improved our system reliability by 99.9% uptime and reduced deployment time from 4 hours to 15 minutes.
+
+[03:30] Interviewer: How did you handle the challenges during this migration?
+
+[04:00] Candidate: There were significant challenges with data consistency and backward compatibility. We took a phased approach, running both systems in parallel for 2 months. We also implemented comprehensive logging and monitoring to catch issues early.
+
+[05:15] Interviewer: What about your experience with team leadership?
+
+[05:45] Candidate: I mentored 3 junior developers and led a team of 5 engineers. I'm passionate about knowledge sharing and code quality. We implemented automated testing and code reviews which reduced bugs in production by 60%.
+
+[06:45] Interviewer: Any experience with AI or machine learning?
+
+[07:00] Candidate: Yes, I've integrated AI features into our platform using OpenAI APIs and custom ML models. Recently, I built a recommendation system using TensorFlow that improved user engagement by 35%.
+
+[08:00] Interviewer: What's your preferred tech stack for future projects?
+
+[08:30] Candidate: I prefer TypeScript with React for frontend, Node.js with Express for backend, and PostgreSQL for databases. I'm also exploring Go for performance-critical services and exploring prompt engineering with LLMs.
+
+[09:15] Interviewer: Any concerns or areas you'd like to improve?
+
+[09:45] Candidate: I'd like to strengthen my DevOps skills and get better at system design for large-scale distributed systems. I'm also learning more about security best practices.
+
+[10:30] Interviewer: Thank you for your time!
+
+[10:45] Candidate: Thank you for the opportunity!
